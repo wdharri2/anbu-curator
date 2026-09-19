@@ -1,0 +1,219 @@
+ANBU SOURCE-AVAILABLE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Willie D. Harris, Jr.
+All rights reserved.
+
+1. DEFINITIONS
+
+"Software" means the Anbu Photo Curator source code, documentation,
+configuration files, prompts, and other original materials distributed
+under this license.
+
+"Licensor" means Willie D. Harris, Jr., the copyright holder of the
+Software.
+
+"Modified Version" means any version of the Software that has been
+changed, adapted, translated, extended, altered, or otherwise modified.
+
+"Third Party" means any person or legal entity other than the individual
+licensee or, for organizational use, persons acting internally on behalf
+of the same organization.
+
+"AI Training" means using the Software or substantial portions of the
+Software as training data, fine-tuning data, reinforcement data,
+distillation data, or similar material for training, fine-tuning,
+adapting, or developing an artificial intelligence or machine-learning
+model.
+
+2. PERMITTED USE
+
+Subject to the terms of this license, you are granted a non-exclusive,
+worldwide, royalty-free license to:
+
+a. download and copy the Software as reasonably necessary to install,
+   back up, and operate it;
+
+b. execute and self-host unmodified copies of the Software for personal,
+   educational, research, commercial, or internal organizational use;
+
+c. make the functionality of an unmodified copy of the Software
+   available to other users, including through a private or publicly
+   accessible hosted service; and
+
+d. modify the Software solely for your own personal use or for internal
+   use within your organization.
+
+No rights are granted except those expressly stated in this license.
+
+3. MODIFIED VERSIONS
+
+You may create and use a Modified Version privately or internally.
+
+Without prior written permission from the Licensor, you may not:
+
+a. publish or publicly disclose a Modified Version or its modified source
+   code;
+
+b. distribute, sublicense, sell, lease, transfer, or otherwise provide a
+   Modified Version to a Third Party;
+
+c. make a Modified Version available as a public service;
+
+d. provide access to a Modified Version to customers, clients, the
+   general public, or users outside your organization;
+
+e. offer a Modified Version as software-as-a-service or as part of
+   another hosted service; or
+
+f. represent a Modified Version as an official version of Anbu Photo
+   Curator.
+
+Private or internal modification does not create any right to
+redistribute or publicly deploy the resulting Modified Version.
+
+4. CODE REUSE AND INCORPORATION
+
+Except for private or internal modification permitted by Section 3, you
+may not copy, extract, adapt, incorporate, or reuse the Software or
+substantial portions of its source code in another software product,
+library, service, application, repository, or codebase without prior
+written permission from the Licensor.
+
+This restriction does not prohibit ordinary interaction with the
+Software through documented interfaces or APIs.
+
+5. ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+
+Without prior written permission from the Licensor, you may not use the
+Software, its source code, documentation, prompts, repository contents,
+or substantial portions of them for AI Training.
+
+Without limiting the preceding paragraph, these materials may not be
+used to:
+
+a. train or pretrain an artificial intelligence or machine-learning
+   model;
+
+b. fine-tune or adapt an existing model;
+
+c. perform model distillation or imitation training;
+
+d. construct training or reinforcement datasets; or
+
+e. train code-generation, code-completion, code-understanding, or
+   similar machine-learning systems.
+
+This restriction does not prohibit the Software itself from using
+artificial intelligence services or models as part of its intended
+operation.
+
+This restriction also does not prohibit users from submitting their own
+photographs, metadata, instructions, or other user-provided content to
+AI systems through functionality provided by the Software.
+
+6. SOURCE DISTRIBUTION
+
+You may download and copy the Software as reasonably necessary for
+permitted installation, backup, and self-hosting.
+
+You may not independently redistribute the Software's source code,
+create or operate mirrors of the repository, sublicense the source code,
+or distribute copies of the repository to Third Parties without prior
+written permission from the Licensor.
+
+This section does not restrict functionality expressly provided by the
+source-code hosting platform on which the Licensor makes the Software
+available, to the extent that the Licensor has separately agreed to
+such functionality under that platform's terms.
+
+7. OWNERSHIP
+
+The Software is licensed, not sold.
+
+The Licensor retains all copyright and other intellectual property
+rights in the Software except for rights expressly granted under this
+license.
+
+Possession of a copy of the Software, access to its source code, or
+access to a public repository containing the Software does not transfer
+ownership or grant rights beyond those expressly provided by this
+license.
+
+8. OUTPUT AND USER CONTENT
+
+This license does not claim ownership of photographs, captions,
+metadata, post selections, databases, reports, or other content created
+or supplied by users through their use of the Software.
+
+Users retain whatever rights they otherwise hold in their own content
+and outputs.
+
+9. THIRD-PARTY COMPONENTS
+
+Third-party libraries, software, data, and other components included
+with or used by the Software remain subject to their respective
+licenses.
+
+Nothing in this license limits rights granted directly by the copyright
+holders of those third-party components.
+
+Where this license conflicts with the applicable license of a
+third-party component, the third-party license governs that component.
+
+10. PROJECT IDENTITY
+
+This license does not grant permission to use the names "Anbu Photo
+Curator," "Anbu Curator," associated logos, or other project branding in
+a manner that suggests endorsement, sponsorship, or that a Modified
+Version is an official release.
+
+11. TERMINATION
+
+Rights granted under this license terminate automatically upon a
+material violation of its terms.
+
+Upon termination, you must cease uses of the Software that depend upon
+rights granted by this license.
+
+Termination does not affect rights applicable independently to
+third-party components.
+
+The Licensor may reinstate rights in writing.
+
+12. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT.
+
+USE OF THE SOFTWARE IS AT YOUR OWN RISK.
+
+13. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL
+NOT BE LIABLE FOR ANY CLAIM, LOSS, DAMAGE, OR OTHER LIABILITY ARISING
+FROM OR RELATED TO THE SOFTWARE OR ITS USE, WHETHER IN CONTRACT, TORT,
+OR OTHERWISE.
+
+14. ADDITIONAL PERMISSIONS
+
+The Licensor may grant additional permissions, commercial licenses,
+redistribution rights, public deployment rights for Modified Versions,
+or other exceptions through a separate written agreement.
+
+15. THIRD-PARTY PLATFORM TERMS
+
+If the Software is accessed through a third-party hosting or
+source-control platform, use of that platform may also be governed by
+separate terms between the applicable parties.
+
+Nothing in this license is intended to revoke rights that the Licensor
+has separately and expressly granted to such a platform under those
+terms.
+
+16. ENTIRE LICENSE
+
+This license states the permissions granted by the Licensor for the
+Software unless a separate written agreement between the Licensor and
+another party provides otherwise.

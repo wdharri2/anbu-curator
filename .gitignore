@@ -1,0 +1,64 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Runtime data
+data/db/*
+data/logs/*
+data/config/*
+!data/db/.gitkeep
+!data/logs/.gitkeep
+!data/config/.gitkeep
+
+# Generated / local
+*.sqlite3
+.DS_Store
+
+# Local development backups
+data/backups/
+
+# Environment files
+.env.*
+!.env.example
+
+# Local databases
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+
+# Personal photo / video media
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+*.gif
+*.tif
+*.tiff
+*.dng
+*.cr2
+*.cr3
+*.nef
+*.arw
+*.mov
+*.mp4
+*.m4v
+
+# Private keys / certificates with private material
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
